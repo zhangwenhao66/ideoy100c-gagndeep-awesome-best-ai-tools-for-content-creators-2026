@@ -451,6 +451,7 @@ Yes, in the sense that every item in this list is a public GitHub repository. So
 Yes. `Scriberr`, `whishper`, `Txtify`, `WhisperX`, `faster-whisper`, and `LinTO Studio` are among the best public GitHub options for offline or self-hosted transcription, subtitle generation, and speaker-aware transcript workflows.
 
 ### Why are there fewer open source AI video editors than image or audio tools?
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 Because the ecosystem is still immature. There are many model repos and many non-AI video editors, but far fewer active public GitHub projects that combine creator-grade video editing with AI-first workflows in a polished, maintainable form.
 
 ## GitHub Search Queries Used
